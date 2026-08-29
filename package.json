@@ -1,0 +1,9 @@
+{
+  "name": "keyplus-frontend-concept",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"vite","build":"vite build","preview":"vite preview"},
+  "dependencies": {"@vitejs/plugin-vue":"latest","axios":"latest","daisyui":"latest","echarts":"latest","pinia":"latest","sass":"latest","tailwindcss":"latest","vue":"latest","vue-echarts":"latest","vue-i18n":"latest","vue-router":"latest"},
+  "devDependencies": {"vite":"latest"}
+}

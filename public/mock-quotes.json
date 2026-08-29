@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Essential Protect","provider":"Takaful Partner","annual":1188,"monthly":99,"score":4.8,"tags":["Flood","Windscreen","24/7 Tow"],"recommended":true},
+  {"id":2,"name":"Drive Plus","provider":"Insurance Partner","annual":1272,"monthly":106,"score":4.7,"tags":["Special Perils","PA Cover","Tow"]},
+  {"id":3,"name":"Value Cover","provider":"Insurance Partner","annual":1092,"monthly":91,"score":4.6,"tags":["Basic Flood","Tow","Fast Issue"]}
+]
